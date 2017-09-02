@@ -24,14 +24,14 @@
 
     + [python-autopep8](https://atom.io/packages/python-autopep8): Format python code using autopep8.
 
-    Cài đặt thêm package `autopep8`:
-    ```bash
-    $ sudo pip install autopep8
-    ```
+        Cài đặt thêm package `autopep8`:
+        ```bash
+        $ sudo pip install autopep8
+        ```
 
     + [linter-flake8](https://atom.io/packages/linter-flake8): Atom linter plugin for Python, using flake8.
 
-    Cài đặt thêm package `flake8`:
-    ```bash
-    $ sudo pip install flake8
-    ```
+        Cài đặt thêm package `flake8`:
+        ```bash
+        $ sudo pip install flake8
+        ```
