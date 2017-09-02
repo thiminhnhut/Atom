@@ -42,6 +42,8 @@
 
 * Lập trình Python trên Atom: [atom-for-python.md](https://github.com/thiminhnhut/Atom/blob/master/Ubuntu/atom-for-python.md)
 
+* Sử dụng Atom lập trình C/C++ trên hệ điều hành Ubuntu: [atom-for-c-c++.md](https://github.com/thiminhnhut/Atom/blob/master/Ubuntu/atom-for-c-c%2B%2B.md)
+
 ### Khắc phục một số lỗi khi sử dụng Atom trên hệ điều hành Ubuntu
 
 1. [Khắc phục lỗi không mở Atom được với quyền user thông thường sau khi đã mở Atom với quyền user root trên hệ điều hành Ubuntu](https://github.com/thiminhnhut/Atom/blob/master/Ubuntu/lauch-atom-after-root.md)
