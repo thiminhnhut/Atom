@@ -6,7 +6,7 @@
 
 ## Nguồn tham khảo
 
-* [PlatformIO IDE for Atom](http://docs.platformio.org/en/latest/ide/atom.html#ide-atomPlatformIO IDE for Atom)
+* [PlatformIO IDE for Atom](http://docs.platformio.org/en/latest/ide/atom.html#ide-atomPlatformIO)
 
 ## Nội dung
 ### Cài đặt PlatformIO trên Atom
