@@ -1,5 +1,9 @@
 # Sử dụng Atom làm công cụ lập trình
 
+* **Thực hiện:** Thi Minh Nhựt - **Email:** thiminhnhut@gmail.com
+
+* **Thời gian:** Ngày 02 tháng 09 năm 2017
+
 ## Nội dung
 
 ### Cài đặt phần mềm soạn thảo Atom
