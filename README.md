@@ -8,7 +8,7 @@
 
 ### Cài đặt phần mềm soạn thảo Atom
 
-* [Cài đặt Atom trên hệ điều hành Ubuntu 16.04](https://github.com/thiminhnhut/Atom/blob/master/Ubuntu/setup-atom.md)
+* [Cài đặt và cập nhật Atom trên hệ điều hành Ubuntu 16.04](https://github.com/thiminhnhut/Atom/blob/master/Ubuntu/setup-atom.md)
 
 
 ### Một số package cần thiết khi sử dụng Atom
