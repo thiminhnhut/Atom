@@ -33,6 +33,7 @@
 
 * [markdown-preview](https://atom.io/packages/markdown-preview): Open a rendered version of the Markdown in the current editor with `ctrl-shift-m`.
 
+* [docblockr](https://atom.io/packages/docblockr): A helper package for writing documentation.
 
 ### Sử dụng Atom làm công cụ lập trình cho một số ngôn ngữ
 
