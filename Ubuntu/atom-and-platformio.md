@@ -12,7 +12,7 @@
 ### Cài đặt PlatformIO trên Atom
 Phần này trình bày với cách sử dụng `PlatformIO` trên `Atom` với ngôn ngữ lập trình `C/C++` cho các board `Arduino` và `ESP`.
 
-1. PlatformIO sử dụng [clang](http://clang.llvm.org/) để có thể thự động hoàn thành code `C/C++` thông minh.
+1. PlatformIO sử dụng [clang](http://clang.llvm.org/) để có thể tự động hoàn thành code `C/C++` thông minh.
 
     * Kiểm tra xem đã cài đặt `clang` trên máy tính hay chưa:
 
