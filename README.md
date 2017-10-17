@@ -35,6 +35,12 @@
 
 * [docblockr](https://atom.io/packages/docblockr): A helper package for writing documentation.
 
+* [restart-atom](https://atom.io/packages/restart-atom): An atom package to restart atom
+
+* [autocomplete](https://atom.io/packages/autocomplete): Display possible completions in the editor with `ctrl-space`.
+
+* [ascii-hex](https://atom.io/packages/ascii-hex) - Convert your selected text from ASCII to hex and vice versa
+
 ### Sử dụng Atom làm công cụ lập trình cho một số ngôn ngữ
 
 * Lập trình LaTeX trên Atom: [atom-for-latex.md](https://github.com/thiminhnhut/Atom/blob/master/Ubuntu/atom-for-latex.md)
