@@ -54,3 +54,5 @@
 ### Khắc phục một số lỗi khi sử dụng Atom trên hệ điều hành Ubuntu
 
 1. [Khắc phục lỗi không mở Atom được với quyền user thông thường sau khi đã mở Atom với quyền user root trên hệ điều hành Ubuntu](https://github.com/thiminhnhut/Atom/blob/master/Ubuntu/lauch-atom-after-root.md)
+
+1. [Enable/Disable chế độ Auto Indent trong Atom](https://github.com/thiminhnhut/Atom/blob/master/Ubuntu/atom-enable-auto-indent.md)
