@@ -27,3 +27,5 @@
     + [latextools](https://atom.io/packages/latextools) - LaTeXTools for Atom: comprehensive support for LaTeX documents - by Ian Bacher and Marciano Siniscalchi: This is an Atom port of the [LaTeXTools package](http://github.com/SublimeText/LaTeXTools) for Sublime Text. It aims to provide a 'one-stop' solution for all your TeXing needs.
 
     + [pdf-view](https://atom.io/packages/pdf-view) - Atom PDF viewer based on PDF.js: Adds support for viewing PDF files in Atom. Powered by [PDF.js](https://github.com/mozilla/pdf.js)
+
+    + [latex-tree](https://atom.io/packages/latex-tree) - Document tree view for LaTeX
